@@ -1,0 +1,4 @@
+# Sleep state controlled HVAC systems
+It is common experience that while in sleep state we feel unusually cold sometimes. This causes interrupted sleep and at times even disturbed sleep. This phenomenon is more pronounced for people which conditions like wheezing and other breathing problems. This experience is more common in colder countries where almost every home has a temperature regulation system. Through this project I intend to address this problem in a simplistic way. This project intends to read a person’s sleep state and depending upon that, changes the ambient temperature to ensure sound and undisturbed sleep.
+
+[![For video please check out](https://img.youtube.com/vi/rQ3miZkrTQA/0.jpg)](https://youtu.be/rQ3miZkrTQA)
